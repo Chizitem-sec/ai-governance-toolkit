@@ -4,7 +4,7 @@ I reviewed a 46 document AI governance framework as a security lead, to find wha
 
 The full write up and the numbers are in the workbook: **AI_Documentation_Gap_Analysis_Case_Study.xlsx**.
 
-## The short version
+## Summary
 
 - I sorted all 46 documents by security area, type, driver and adoption tier, then checked the whole set against three public lists of AI risks.
 - **Biggest finding:** the framework is built for AI that informs decisions, not AI that acts. Of the 10 OWASP agentic risks, only 1 is covered, 4 are thin, and 5 have nothing.
